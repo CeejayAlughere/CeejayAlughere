@@ -1,5 +1,5 @@
 # 👨🏽‍💻 About Me:
-🔭 I’m currently working on My Software Development Degree<br>🌱 I’m currently learning Python & Git<br>⚡ I play basketball
+🔭 I’m currently working on My Software Development Degree<br>🌱 I’m currently learning Python & Git<br>🏀 I play basketball
 
 
 ## 🌐 Socials:
